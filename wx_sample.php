@@ -2,7 +2,7 @@
 /**
   * wechat php test
   */
-
+//dadfadfadfafffffadsfadfad
 //define your token
 define("TOKEN", "heima3");
 $wechatObj = new wechatCallbackapiTest();
